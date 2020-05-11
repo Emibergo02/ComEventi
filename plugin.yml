@@ -1,0 +1,8 @@
+name: ComEventi
+version: 0.2
+author: Unnm3d
+main: dev.unnm3d.comevent.Main
+softdepend: [PalmiraEvent]
+commands:
+  test:
+    description: default command for ComEventi
